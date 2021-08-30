@@ -1,8 +1,10 @@
-package com.example.videomanagergarpix;
+package com.example.videomanagergarpix.UI;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import com.example.videomanagergarpix.R;
 
 public class MainActivity extends AppCompatActivity {
 
